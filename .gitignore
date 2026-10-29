@@ -1,0 +1,70 @@
+# Unity - carpetas generadas automaticamente
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data: los .meta SI se suben (no ignorar)
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity: archivos generados
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+
+# Android / Gradle
+/[Aa]ndroid/
+.gradle/
+local.properties
+
+# iOS / Xcode
+/[Ii]os[Bb]uild/
+xcuserdata/
+
+# Visual Studio Code / paquetes autogenerados
+.utmp/
+/[Pp]ackages/packages-lock.json.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups
+*.bak
+*.backup
+*~
+
+# /Assets/Resources/VuforiaConfiguration.asset
+# /Assets/Resources/VuforiaConfiguration.asset.meta

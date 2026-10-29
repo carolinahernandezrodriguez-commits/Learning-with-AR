@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mochila" size="0.200000 0.198969" />
+    <ImageTarget name="lapiz" size="0.200000 0.265282" />
+    <ImageTarget name="goma" size="0.200000 0.192000" />
+    <ImageTarget name="gumbal2" size="0.200000 0.125704" />
+    <ImageTarget name="gumbal1" size="0.200000 0.143041" />
+  </Tracking>
+</QCARConfig>
